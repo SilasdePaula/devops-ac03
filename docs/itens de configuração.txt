@@ -1,0 +1,9 @@
+itens de configuração
+
+
+codigo fonte do projeto
+modelos diagramas
+doculmentos de requisitos
+planilhas de teste
+teste de automatização
+script
